@@ -7,6 +7,8 @@ https://github.com/scandipwa/quote-graphql/pull/25
 
 https://github.com/scandipwa/wishlist-graphql/pull/7
 
+https://github.com/scandipwa/base-theme/pull/554
+
 #### 3. Clone locally these 2 (contains functionality to add/remove gift cards and/or store credits from cart) -
 https://github.com/AivarsA/customer-balance-graphql
 
