@@ -21,7 +21,7 @@ https://github.com/AivarsA/gift-card-graphql
 #### Login in admin - Catalog - Products - press on arrow next to Add Product - choose Gift Card
 - Enter gift card name, sku and then scroll till "Amount" and enter your desired amounts for gift card
 - Or if you want to allow user to choose amount from-to then change "Allow Open Amount" to enabled and enter amount from and amount to values (by enabling allow open amount will ignore "hardcoded" values)
-- Add images for product etc.
+- Add product to category, add images for product etc.
 - Save product
 
 #### Stores - Configuration - Sales - Gift Cards
