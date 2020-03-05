@@ -2,7 +2,7 @@
 
 #### 1. Verify that Magento Enterprise edition is installed instead of Community Edition
 
-#### 2. Pull locally these pull requests (to be able to add to cart/wishlist gift card products) - 
+#### 2. Pull locally these pull requests (to be able to add to cart/wishlist gift card products and all related frontend functionality/styling related to gift cards and store credits) - 
 https://github.com/scandipwa/quote-graphql/pull/25
 
 https://github.com/scandipwa/wishlist-graphql/pull/7
