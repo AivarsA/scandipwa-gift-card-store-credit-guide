@@ -15,3 +15,26 @@ https://github.com/AivarsA/customer-balance-graphql
 https://github.com/AivarsA/gift-card-graphql
 
 #### 4. Run setup:upgrade. Re-create containers with "--force-recreate" if necessary
+
+
+## Create Gift Card Product
+#### Login in admin - Catalog - Products - press on arrow next to Add Product - choose Gift Card
+- Enter gift card name, sku and then scroll till "Amount" and enter your desired amounts for gift card
+- Or if you want to allow user to choose amount from-to then change "Allow Open Amount" to enabled and enter amount from and amount to values (by enabling allow open amount will ignore "hardcoded" values)
+- Add images for product etc.
+- Save product
+
+#### Stores - Configuration - Sales - Gift Cards
+- For testing purposes change "Generate Gift Card Account when Order Item is" from Invoiced to Ordered, to be able to receive gift card code and use it even if order isn't invoiced yet
+
+#### Marketing - Gift Card Accounts
+- Here can see all gift cards
+
+## Enable Store Credits
+#### Stores - Configuration - Customers - Customer Configuration - Store Credit Options
+Verify that settings are like this -
+- Enable Store Credit Functionality - Yes
+- Show Store Credit History to Customers - Yes
+- Refund Store Credit Automatically - No
+
+Most important part is first one, it should be set to Yes for store credit functionality to work
